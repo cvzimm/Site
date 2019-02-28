@@ -7,4 +7,9 @@ body{
 h1 {
   color: blue;
   text-align: center;
+  font-family: 'Srisakdi', cursive;
+}
+
+p {
+font-size: 20px;
 }
