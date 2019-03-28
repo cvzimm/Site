@@ -11,6 +11,11 @@ h1 {
   font-family: 'Srisakdi', cursive;
 }
 
+h1{
+  font-size: 250px;
+}
+
+
 p {
 font-size: 20px;
 }
