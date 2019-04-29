@@ -1,0 +1,25 @@
+body{
+  background-color: turquoise;
+}
+
+
+
+h1 {
+  color: lavender;
+  text-align: center;
+  font-family: 'Georgia', cursive;
+}
+
+p {
+text-align: center;
+font-size: 20px;
+}
+
+th, td {
+  padding: 30px;
+  text-align: left;
+}
+
+a:hover {
+  background-color: orange
+}
